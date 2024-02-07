@@ -1,2 +1,2 @@
-shell basics
-task 0
+shell basics/n
+task 0/n
